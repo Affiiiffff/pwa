@@ -3,6 +3,7 @@
 # Link to demo vid
 
 [Link to deployed heroku](https://glacial-plains-33903.herokuapp.com/)
+![screenshot of application](./client/src/images/Screenshot_20221107_183911.png)
 
 ## Table of Contents
 
